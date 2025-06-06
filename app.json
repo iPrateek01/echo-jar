@@ -33,9 +33,6 @@
     "plugins": [
       "expo-router",
       "@react-native-firebase/app",
-      "@react-native-firebase/auth",
-      "@react-native-firebase/firestore",
-      "@react-native-firebase/storage",
       [
         "expo-splash-screen",
         {
@@ -49,6 +46,12 @@
         "expo-audio",
         {
           "microphonePermission": "Allow EchoJar to access your microphone."
+        }
+      ],
+       [
+        "expo-web-browser",
+        {
+          "experimentalLauncherActivity": true
         }
       ],
       "expo-video"
