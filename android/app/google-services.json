@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "649582445729",
+    "project_id": "echo-jar",
+    "storage_bucket": "echo-jar.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649582445729:android:bd1837f5b65d93eb8d5ce0",
+        "android_client_info": {
+          "package_name": "com.iprateek01.echojar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgl6KqgyKjUMQwMv2TnkEhWc5MRIJgi-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
